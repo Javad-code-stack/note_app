@@ -4,10 +4,9 @@
 @import "tailwindcss";
 @plugin "daisyui" {
 	themes:
-		"nord" --default,
-		"sunset" --prefersdark;
+		nord --default,
+		sunset --prefersdark;
 }
-
 :root {
 	font-family: "Ubuntu Sans", "Rubik", sans-serif;
 	line-height: 1.5;
