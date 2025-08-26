@@ -2,6 +2,10 @@
 
 ![Homepage](./assets/homepage.png)
 
+## 🚀 Live Preview
+
+👉 [Click here to view the live demo](https://note-app-cz0r.onrender.com/)
+
 A Simple, feature-rich note-taking application built with React, TypeScript, and Zustand for state management. This application allows users to create, edit, and organize notes with tags, all stored locally in the browser.
 
 ## Project Overview
